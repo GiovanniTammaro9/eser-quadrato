@@ -1,0 +1,23 @@
+.relative{
+    position: relative;
+    bottom: 125px;
+    border: 2px solid black;
+    width: 400px;
+    height: 200px;
+}
+
+
+
+
+.quadrato{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border: 10px solid green;
+    margin: 10px;
+    padding: 10px;
+
+}
